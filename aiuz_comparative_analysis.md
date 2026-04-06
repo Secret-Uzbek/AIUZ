@@ -4,7 +4,7 @@
 
 **1. Global Equivalents**
 - **WordNet, BabelNet, Wikidata**: Large-scale lexical databases; monolingual/multilingual but limited in philosophical scope and governance.
-- **SingularityNET, Ocean Protocol**: DAO-driven data ecosystems with AI interface—lacking semantic field/ontology layering.
+- **SingularityNET, Ocean Protocol**: DAO-driven data ecosystems with AI interfaceвЂ”lacking semantic field/ontology layering.
 - **OpenAI Memory/ChatGPT Systems**: AI-context persistence but not modularly extensible across layers (ethics, identity, cross-lingual).
 - **UNESCO/UN Projects**: Philosophically adjacent in terms of cultural preservation but lack protocol and DAO interoperability.
 
@@ -18,7 +18,7 @@
 **3. Key Differentiators**
 - AIUZ combines:
   - Protocol governance + semantic architecture
-  - Modular standard for session archival (L0–L4)
+  - Modular standard for session archival (L0вЂ“L4)
   - Semantic validation before execution (not just consensus)
 
 **4. Improvement Vectors**
