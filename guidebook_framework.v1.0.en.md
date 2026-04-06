@@ -1,4 +1,4 @@
-# AIUZ — Guidebook Framework
+# AIUZ вЂ” Guidebook Framework
 
 Instructions for implementation.
 
