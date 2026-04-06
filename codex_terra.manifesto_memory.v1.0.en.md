@@ -1,4 +1,4 @@
-# Codex Terra — Memory Manifesto
+# Codex Terra вЂ” Memory Manifesto
 
 AIUZ Philosophy and Memory.
 
