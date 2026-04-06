@@ -1,10 +1,10 @@
-# 🧠 AIUZ Core Documentation
+# рџ§  AIUZ Core Documentation
 
 > This document systematizes and outlines the foundational modules of the AIUZ Framework, including standards, protocols, manifestos, and guides. Sources stem from restored internal archives, aligned with AIUZ 2025 formatting and modular architecture principles.
 
 ---
 
-## 📘 1. AIUZ Standard
+## рџ“ 1. AIUZ Standard
 
 **Files Referenced:**
 - Aiuz Standard.docx / .pdf / (1).docx / .md
@@ -19,7 +19,7 @@ Defines the foundational technical and ethical standards for the AIUZ framework,
 
 ---
 
-## 🧾 2. AI Ethics Protocol & Resilience
+## рџ§ѕ 2. AI Ethics Protocol & Resilience
 
 **Files Referenced:**
 - Ai Ethics Protocol And Resilience.docx / .pdf / .md
@@ -31,19 +31,19 @@ Outlines the ethical resilience infrastructure, emergency override clauses, and 
 
 ---
 
-## 📜 3. AIUZ PR Manifesto
+## рџ“њ 3. AIUZ PR Manifesto
 
 **Files Referenced:**
 - Aiuz Pr Manifesto.docx / .pdf / .md
 
 **Summary:**
-A visionary document stating AIUZ’s public commitments, ethical worldview, and its sociotechnical mission in a global context.
+A visionary document stating AIUZвЂ™s public commitments, ethical worldview, and its sociotechnical mission in a global context.
 
 **Tags:** `#manifesto` `#philosophy` `#public-policy`
 
 ---
 
-## 🧩 4. AIUZ Audit Regulation
+## рџ§© 4. AIUZ Audit Regulation
 
 **Files Referenced:**
 - Aiuz Audit Regulation.docx / .pdf / .md
@@ -55,7 +55,7 @@ Formalizes auditing procedures, third-party compliance protocols, and certifiabl
 
 ---
 
-## 📚 5. AIUZ Guidebook Framework
+## рџ“љ 5. AIUZ Guidebook Framework
 
 **Files Referenced:**
 - Aiuz Guidebook Framework.docx / .pdf / .md
@@ -67,7 +67,7 @@ Framework-level instructions for implementers, project collaborators, and educat
 
 ---
 
-## 📄 6. AIUZ One Pager
+## рџ“„ 6. AIUZ One Pager
 
 **Files Referenced:**
 - Aiuz One Pager.docx / .pdf / .md
@@ -79,7 +79,7 @@ Condensed, high-level summary of AIUZ mission, components, and architecture. Des
 
 ---
 
-## 📑 7. AIUZ White Paper
+## рџ“‘ 7. AIUZ White Paper
 
 **Files Referenced:**
 - Aiuz White Paper.docx / .pdf / .md
@@ -91,7 +91,7 @@ Comprehensive strategic vision document defining AIUZ's sociotechnical alignment
 
 ---
 
-> ✅ All modules follow AIUZ Document Structuring Protocol v1.3 (inferred).
+> вњ… All modules follow AIUZ Document Structuring Protocol v1.3 (inferred).
 > This file acts as the canonical overview for AIUZ Core and may be extended as new components are integrated.
 
 
