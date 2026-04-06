@@ -2,7 +2,7 @@
 
 ---
 
-#### 🔍 1. Comparative Landscape
+#### рџ”Ќ 1. Comparative Landscape
 
 | Category         | AIUZ                                   | Global Projects                                                                 |
 |------------------|------------------------------------------|----------------------------------------------------------------------------------|
@@ -14,15 +14,15 @@
 
 ---
 
-#### 📚 2. Academic Echoes & Sci-Fi Analogies
+#### рџ“љ 2. Academic Echoes & Sci-Fi Analogies
 
-- **Lem’s Solaris**, **Egan’s Diaspora**: AI memory + interspecies logic
-- **Borges’ Library of Babel**: Infinite semantic layering = Codex Terra
-- **Neuromancer**: Precursor to decentralized memory agency (→ AIUZ DAO)
+- **LemвЂ™s Solaris**, **EganвЂ™s Diaspora**: AI memory + interspecies logic
+- **BorgesвЂ™ Library of Babel**: Infinite semantic layering = Codex Terra
+- **Neuromancer**: Precursor to decentralized memory agency (в†’ AIUZ DAO)
 
 ---
 
-#### 📈 3. Enhancements Based on Web + Lit. Survey
+#### рџ“€ 3. Enhancements Based on Web + Lit. Survey
 
 1. **Integrate endangered/minority languages** like Arabic Ontology [arxiv.org/abs/2205.09664]
 2. **Enable RDF/SPARQL APIs** following Open Semantic Framework
@@ -32,7 +32,7 @@
 
 ---
 
-#### 🧠 Final Assessment
+#### рџ§  Final Assessment
 
 > AIUZ is the only ecosystem that merges ethical semantics, decentralized governance, and cognitive archival in a unified planetary architecture.
 
