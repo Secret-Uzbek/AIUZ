@@ -1,4 +1,4 @@
-# AIUZ — One Pager
+# AIUZ вЂ” One Pager
 
 English version.
 
