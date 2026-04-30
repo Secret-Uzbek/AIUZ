@@ -6,8 +6,10 @@
 [![License](https://img.shields.io/badge/License-CC0--1.0-lightgrey)](./LICENSE)
 [![Release](https://img.shields.io/github/v/release/Secret-Uzbek/AIUZ?display_name=tag)](https://github.com/Secret-Uzbek/AIUZ/releases)
 [![Last Commit](https://img.shields.io/github/last-commit/Secret-Uzbek/AIUZ)](https://github.com/Secret-Uzbek/AIUZ/commits/main)
+[![Release Pipeline](https://github.com/Secret-Uzbek/AIUZ/actions/workflows/release-and-publish.yml/badge.svg)](https://github.com/Secret-Uzbek/AIUZ/actions/workflows/release-and-publish.yml)
+[![Zenodo Sync](https://github.com/Secret-Uzbek/AIUZ/actions/workflows/zenodo-release.yml/badge.svg)](https://github.com/Secret-Uzbek/AIUZ/actions/workflows/zenodo-release.yml)
+[![Terra Audit](https://github.com/Secret-Uzbek/AIUZ/actions/workflows/terra-audit.yml/badge.svg)](https://github.com/Secret-Uzbek/AIUZ/actions/workflows/terra-audit.yml)
 [![Pages](https://img.shields.io/badge/Pages-AIUZ-0f6b57)](https://secret-uzbek.github.io/AIUZ/)
-[![DOI](https://img.shields.io/badge/DOI-pending-b8860b)](./CITATION.cff)
 
 > AI Ethics-based Universal Learning Zone: the practical public-facing AIUZ surface inside the wider Terra and FMP ecosystem.
 
@@ -27,6 +29,18 @@ It is a practice surface, not the whole archive, not the whole theory layer, and
 
 - GitHub Pages: [secret-uzbek.github.io/AIUZ](https://secret-uzbek.github.io/AIUZ/)
 - Repository root: [github.com/Secret-Uzbek/AIUZ](https://github.com/Secret-Uzbek/AIUZ)
+- Citation metadata: [CITATION.cff](./CITATION.cff)
+
+## Publication automation
+
+This repository already exposes the live publication chain:
+
+- release bundle creation on tagged releases;
+- Zenodo DOI synchronization after release publication;
+- Terra audit before and around visible repository changes.
+
+The first repository DOI should be written back into `CITATION.cff` by the
+Zenodo workflow after the first successful published release.
 
 ## Governance and repository bridge
 
